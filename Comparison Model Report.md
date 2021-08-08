@@ -21,7 +21,7 @@ For each model I have completed the following:
 
 Comparing the model results I noted the following;
 
-* The Logistc Regression model accuracey on the test data was 89.7% with the best grid score of 88.6%
+* The Logistc Regression model accuracey on the test data was 87.7% with the best grid score of 88.6%
 * The Support Vector Machine model accuracey on the test data was 88.2% with the best grid score of 89.2%
 * The Random Forest Classifier model accuracey on the test data was 89.8% with the best grid score of 89.3%
 * Comparing the Training data scores the Random Forest Classifier model scored 100% followed by the Support Vector Machine model which scored 89.3%
