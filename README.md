@@ -109,7 +109,7 @@ from sklearn.model_selection import GridSearchCV
 
 |No|Source|Link|
 |-|-|-|
-|1|exoplanet_data.csv|https://github.com/alysnow/tableau-challenge/blob/main/data/CitiBike_Complete.csv|
+|1|exoplanet_data.csv|https://github.com/alysnow/machine-learning-challenge/blob/main/data/exoplanet_data.csv|
 
 - - -
 
@@ -122,18 +122,18 @@ from sklearn.model_selection import GridSearchCV
 * Use `MinMaxScaler` to scale the numerical data.
 * Separate the data into training and testing data.
 
-[Jupyter Notebooks](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html?highlight=random%20forest#sklearn.ensemble.RandomForestClassifier) are available to view in the link provided.
+The [Jupyter Notebooks](https://github.com/alysnow/machine-learning-challenge/tree/main/notebooks) are available to view in the link provided.
 
 ### Tune Model Parameters
 
 * Use `GridSearch` to tune model parameters.
 * Tune and compare at least two different classifiers.
 
-[Jupyter Notebooks](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html?highlight=random%20forest#sklearn.ensemble.RandomForestClassifier) are available to view in the link provided.
+The [Jupyter Notebooks](https://github.com/alysnow/machine-learning-challenge/tree/main/notebooks) are available to view in the link provided.
 
 ### Report
 
-A [Comparison Model Report](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html?highlight=random%20forest#sklearn.ensemble.RandomForestClassifier) is avaiable in the link provided.
+A [Comparison Model Report](https://github.com/alysnow/machine-learning-challenge/blob/main/Comparison%20Model%20Report.md) is avaiable in the link provided.
 
 - - -
 
